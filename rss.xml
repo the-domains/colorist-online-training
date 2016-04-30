@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Colorist Online Training]]></title>
+        <description><![CDATA[Colorist Online Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 18:59:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coming Soon! ]]></title>
+            <description><![CDATA[<article><h1>Coming Soon! </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d765951-c027-4af0-ac01-8fd01209db20.jpg"></article>]]></description>
+            <link>undefinedcoming-soon/index.html</link>
+            <guid isPermaLink="false">3ab9874e-888a-4715-b97d-a12f459cbf64</guid>
+            <pubDate>Sat, 30 Apr 2016 18:59:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
